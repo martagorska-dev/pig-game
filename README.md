@@ -38,6 +38,7 @@ https://github.com/martagorska-dev/pig-game/assets/130976058/6af3ecf6-07fe-49ae-
    git clone https://github.com/martagorska-dev/pig-game
    ```
 3. Open  *index.html*
+   
 
 ## Acknowledgements
 This project was based on [this tutorial](https://www.udemy.com/course/the-complete-javascript-course/).
